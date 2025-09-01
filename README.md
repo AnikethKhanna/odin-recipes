@@ -1,0 +1,1 @@
+Images taken from shutterstock.com. This project uses basic HTML to create a website of recipes. 
