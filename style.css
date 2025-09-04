@@ -26,7 +26,7 @@ ul {
     list-style-type: none;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    margin: 0;
+    margin: 5px;
     padding: 0;
 }
 
@@ -63,5 +63,5 @@ a.hover-gold:hover {
     font-size: 15px;
     font-weight: bold;
     text-align: center;
-    margin: 0;
+    margin: 5px;
 }
