@@ -35,14 +35,14 @@ ul a {
     color: rgb(24, 85, 217);
 }
 
-#chicken-breast a:hover {
+a.hover-orange:hover {
     color: rgb(255, 170, 0);
 }
 
-#chicken-pasta a:hover {
+a.hover-red:hover {
     color: rgb(251, 63, 0);
 }
 
-#maggi a:hover {
+a.hover-gold:hover {
     color: rgb(255, 225, 1);
 }
