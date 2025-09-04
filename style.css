@@ -27,7 +27,11 @@ ul {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     margin: 0;
-    padding: 25px;
+    padding: 0;
+}
+
+ul li {
+    margin:8px 0;
 }
 
 ul a {
@@ -45,4 +49,19 @@ a.hover-red:hover {
 
 a.hover-gold:hover {
     color: rgb(255, 225, 1);
+}
+
+.profile-picture {
+    margin-left: 4px;
+    width: 40px;
+    vertical-align: middle;
+    border-radius: 50%;
+}
+
+.description {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
 }
