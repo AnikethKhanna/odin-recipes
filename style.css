@@ -1,0 +1,48 @@
+body {
+    background-color: #9fc3fc;
+}
+
+h1,
+h4 {
+    font-family: Helvetica;
+    margin: 0;
+}
+
+h1 {
+    padding-bottom: 5px;
+}
+
+#title {
+    width: 200px;
+    background-color: #82aef5;
+    margin: 25px auto;
+    padding: 25px;
+    border: 2px solid;
+    text-align: center;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 25px;
+}
+
+ul a {
+    text-decoration: none;
+    color: rgb(24, 85, 217);
+}
+
+#chicken-breast a:hover {
+    color: rgb(255, 170, 0);
+}
+
+#chicken-pasta a:hover {
+    color: rgb(251, 63, 0);
+}
+
+#maggi a:hover {
+    color: rgb(255, 225, 1);
+}
